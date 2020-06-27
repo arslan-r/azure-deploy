@@ -1,0 +1,16 @@
+{
+  "meteor-azure": {
+    "siteName": "meteortestdeploy",
+    "resourceGroup": "meteortestdeployresourcegroup",
+    "subscriptionId": "e7eed157-29b3-499f-9dd5-62ea3f3e5ade",
+    "tenantId": "eca4018c-0945-48a8-a439-74f840b67153",
+    "deploymentCreds": {
+      "username": "meteortestdeploy\\ArslanxR",
+      "password": "TestTestTest1234!@$"
+    },
+    "envVariables": {
+      "ROOT_URL": "https://meteortestdeploy.azurewebsites.net",
+      "MONGO_URL": "mongodb://127.0.0.1:3001/meteor"
+    }
+  }
+}
